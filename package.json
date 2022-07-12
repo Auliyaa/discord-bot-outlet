@@ -1,0 +1,27 @@
+{
+  "name": "discord-bot-outlet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "out/main.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node out/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Auliyaa/discord-bot-outlet.git"
+  },
+  "author": "Auliyaa",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Auliyaa/discord-bot-outlet/issues"
+  },
+  "homepage": "https://github.com/Auliyaa/discord-bot-outlet#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.15.0",
+    "@discordjs/rest": "^0.5.0",
+    "commander": "^9.3.0",
+    "discord-api-types": "^0.36.1",
+    "discord.js": "^13.8.1"
+  }
+}

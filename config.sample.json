@@ -1,0 +1,7 @@
+{
+	"discord": {
+        "token": "<your bot token goes here>",
+		"guild": "<your guild/server id goes here>",
+		"client": "<yout bot client/user id goes here>"
+	}
+}
